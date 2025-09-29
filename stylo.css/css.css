@@ -68,7 +68,7 @@ li:before {
     top: 8px;
     height: 8px;
     width: 8px;
-    background: hwb(345 31% 27%);
+    background: red;
     border-radius: 50%;
 }
 
